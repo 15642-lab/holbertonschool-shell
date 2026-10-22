@@ -1,0 +1,25 @@
+# Shell, I/O Redirections and filters
+
+- `0-hello_world`: Print Hello, World followed by a newline.
+- `1-confused_smiley`: Print the confused smiley literally.
+- `2-hellofile`: Display the passwd file.
+- `3-twofiles`: Display passwd followed by hosts.
+- `4-lastlines`: Display the last ten lines of passwd.
+- `5-firstlines`: Display the first ten lines of passwd.
+- `6-third_line`: Display the third line of iacta.
+- `7-file`: Create the required special filename containing Best School.
+- `8-cwd_state`: Save the long directory listing, overwriting the output file.
+- `9-duplicate_last_line`: Append a duplicate of the last line of iacta.
+- `10-no_more_js`: Delete regular JavaScript files under the current directory.
+- `11-directories`: Count subdirectories, including hidden ones.
+- `12-newest_files`: Display the ten newest entries, newest first.
+- `13-unique`: Sort words and retain those occurring exactly once.
+- `14-findthatword`: Display passwd lines containing root.
+- `15-countthatword`: Count passwd lines containing bin.
+- `16-whatsnext`: Display matching root lines and three following lines.
+- `17-hidethisword`: Display passwd lines without bin.
+- `18-letteronly`: Display SSH configuration lines starting with a letter.
+- `19-AZ`: Translate A to Z and c to e.
+- `20-hiago`: Remove lowercase and uppercase C.
+- `21-reverse`: Reverse the characters on each input line.
+- `22-users_and_homes`: Display usernames and home directories sorted by user.
